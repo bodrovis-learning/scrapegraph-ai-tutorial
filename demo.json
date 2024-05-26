@@ -1,0 +1,122 @@
+[
+  {
+      "id": 1,
+      "name": "Product A",
+      "price": 25.99,
+      "availability": true,
+      "description": "A popular gadget with multiple features",
+      "categories": ["electronics", "gadgets"],
+      "manufacturer": {
+          "name": "GadgetPro",
+          "location": "USA"
+      },
+      "reviews": [
+          {
+              "user": "JohnDoe",
+              "rating": 4,
+              "comment": "Great value for the price!"
+          },
+          {
+              "user": "JaneSmith",
+              "rating": 5,
+              "comment": "Absolutely love this product!"
+          }
+      ]
+  },
+  {
+      "id": 2,
+      "name": "Product B",
+      "price": 45.50,
+      "availability": false,
+      "description": "High-quality appliance for home use",
+      "categories": ["home", "appliance"],
+      "manufacturer": {
+          "name": "HomeGoodsInc",
+          "location": "Canada"
+      },
+      "reviews": [
+          {
+              "user": "AliceBrown",
+              "rating": 3,
+              "comment": "Useful, but a bit overpriced."
+          },
+          {
+              "user": "DaveWilson",
+              "rating": 5,
+              "comment": "A must-have in every household!"
+          }
+      ]
+  },
+  {
+      "id": 3,
+      "name": "Product C",
+      "price": 15.75,
+      "availability": true,
+      "description": "Eco-friendly and sustainable",
+      "categories": ["sustainability", "eco-friendly"],
+      "manufacturer": {
+          "name": "EcoProducts",
+          "location": "Germany"
+      },
+      "reviews": [
+          {
+              "user": "ClaraKlein",
+              "rating": 4,
+              "comment": "Good for the environment and your wallet."
+          },
+          {
+              "user": "OmarFarouk",
+              "rating": 5,
+              "comment": "Excellent product with great eco credentials!"
+          }
+      ]
+  },
+  {
+      "id": 4,
+      "name": "Product D",
+      "price": 29.99,
+      "availability": true,
+      "description": "A durable item for outdoor activities",
+      "categories": ["outdoors", "durable"],
+      "manufacturer": {
+          "name": "OutdoorGear",
+          "location": "Sweden"
+      },
+      "reviews": [
+          {
+              "user": "BethJones",
+              "rating": 4,
+              "comment": "Sturdy and reliable."
+          },
+          {
+              "user": "TomNorton",
+              "rating": 5,
+              "comment": "Perfect for any outdoor enthusiast!"
+          }
+      ]
+  },
+  {
+      "id": 5,
+      "name": "Product E",
+      "price": 55.00,
+      "availability": true,
+      "description": "Luxury beauty product",
+      "categories": ["beauty", "luxury"],
+      "manufacturer": {
+          "name": "LuxBeautyCo",
+          "location": "France"
+      },
+      "reviews": [
+          {
+              "user": "SandraLee",
+              "rating": 5,
+              "comment": "Feels luxurious and well worth the price."
+          },
+          {
+              "user": "RajPatel",
+              "rating": 4,
+              "comment": "Great quality, but a little pricey."
+          }
+      ]
+  }
+]
